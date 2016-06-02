@@ -4,8 +4,7 @@
   "description": "Test App for Deployment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index"
   },
   "author": "Sri Harsha Kappala <sriharsha.kappala@hotmail.com> (https://github.com/sriharshakappala)",
   "license": "ISC"

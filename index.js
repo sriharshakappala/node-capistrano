@@ -1,2 +1,1 @@
-process.stdout.write("hello");
-process.stdout.write("there");
+console.log('hello world!');
